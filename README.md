@@ -1,5 +1,5 @@
 # segment-anything-tf
-A TensorFlow implementation of SegmentAnything Model (SAM) by Facebook 2023
+A TensorFlow implementation of [SegmentAnything Model (SAM)](https://github.com/facebookresearch/segment-anything) by Facebook 2023. 
 
 Components:
 - [ ] Image Encoder
